@@ -7,7 +7,7 @@ The project “IT Company Website” is a responsive website made using HTML, CS
 ## Website Link
 
 Go check this website!!
-file:///C:/IT-Company-Website-main/index.html
+http//:/IT-Company-Website-main/index.html
 
 
 
